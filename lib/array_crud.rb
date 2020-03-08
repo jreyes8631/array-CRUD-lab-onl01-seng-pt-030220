@@ -16,7 +16,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   letter = ["a", "b", "c", "d"]
-  letter.push("f")
+  letter.unshift(1,2)
   
 end
 
