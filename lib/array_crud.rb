@@ -15,8 +15,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  letter.unshift
-  
+  letter = ["a", "b", "c", "d"]
+  letter.unshift("f")
   
 end
 
