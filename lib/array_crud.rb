@@ -22,30 +22,28 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  letter = ["a", "b", "c", "d"]
-  letter.pop ("arrays!")
+  l
+  
   
 end
 
 def remove_element_from_start_of_array(array)
-  letter = ["a", "b", "c", "d"]
-  letter.shift("a")
+ 
+ 
   
 end
 
 def retrieve_element_from_index(array, index_number)
-   letter = ["a", "b", "c", "d"]
-   letter [1]
-  
+   
+   
 end
 
 def retrieve_first_element_from_array(array)
-  letter = ["a", "b", "c", "d"]
-   letter [0]
+  
   
 end
 
 def retrieve_last_element_from_array(array)
-  letter = ["a", "b", "c", "d"]
-   letter [3]
+  
+  
 end
